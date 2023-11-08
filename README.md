@@ -5,6 +5,10 @@
 
 JATE-PWA is a simple and lightweight text editor built as a Progressive Web App (PWA). It allows users to create, edit, and save text documents directly from their web browser, without the need for installation or internet connectivity after the initial load.
 
+## Video
+
+https://youtu.be/qPGHAROTjM0
+
 ## Features
 
 - **Offline Functionality**: JATE-PWA can be used even when you are not connected to the internet, making it a versatile tool for on-the-go editing.
